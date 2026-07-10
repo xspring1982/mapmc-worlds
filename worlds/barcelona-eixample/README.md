@@ -1,19 +1,30 @@
-# Barcelona Eixample as a Minecraft Java World
+# l'Eixample, Barcelona, Espana as a Minecraft Java World
 
-This is a Minecraft Java world based on Barcelona's Eixample area.
+This is a Minecraft Java world based on l'Eixample, Barcelona, Espana.
 
-It was generated with MapMC from real-world map data. It is a starting point for city-building, exploration, and editing rather than a perfect hand-built replica.
+It was generated with [MapMC](https://mapmc.app) from real-world map data. It is a playable starting point for city-building, exploration, and editing rather than a perfect hand-built replica.
 
 - Edition: Java
-- Tested world version: 1.21.4
-- MapMC preview: https://mapmc.app/zh/m/NkVb7Hn8FlZ9
-- Download: `mapmc-world-java.zip`
+- Package: `mapmc-world-java.zip`
+- Package size: 45.8 MB
+- MapMC 3D preview: https://mapmc.app/zh/m/NkVb7Hn8FlZ9
 
 ## Install
 
-1. Create a folder named `MapMC - Barcelona Eixample`.
-2. Extract the zip contents into that folder.
-3. Move that folder into your Minecraft Java saves directory.
-4. Launch Minecraft Java Edition and open it from Singleplayer.
+1. Download `mapmc-world-java.zip`.
+2. Create a folder named `MapMC - l'Eixample, Barcelona, Espana`.
+3. Extract the zip contents into that folder.
+4. Move that folder into your Minecraft Java saves directory.
+5. Launch Minecraft Java Edition and open it from Singleplayer.
 
 Make sure `level.dat` is inside the world folder after extraction.
+
+## Screenshots
+
+![l'Eixample, Barcelona, Espana preview 1](screenshots/barcelona-eixample-preview-1.png)
+
+![l'Eixample, Barcelona, Espana preview 2](screenshots/barcelona-eixample-preview-2.png)
+
+## Disclosure
+
+This world was generated with MapMC from real-world map data. MapMC is not official Minecraft and is not affiliated with Mojang or Microsoft.
